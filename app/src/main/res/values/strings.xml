@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Contas</string>
+    <string name="valor_da_conta">Valor da conta</string>
+    <string name="calcular_com_10">calcular com 10%</string>
+</resources>
